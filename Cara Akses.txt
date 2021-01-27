@@ -1,0 +1,37 @@
+Halaman Utama
+
+http://localhost/cobadlieduventure/
+
+============================
+
+Halaman Admin
+
+http://localhost/cobadlieduventure/admin/login
+
+email= admin@gmail.com
+password = admin12345
+
+============================
+
+
+Halaman Member
+
+Daftar = http://localhost/cobadlieduventure/user
+
+Login = http://localhost/cobadlieduventure/user/login
+
+
+Member yg udah dibuat, untuk percobaan :
+
+email = hendro@gmail.com
+password = hendro12345
+
+email = nugrohodedi62@gmail.com
+password = dedinugroho / dedibosku (coba dua2nya karna udh ubah password)
+
+email = wisatasolorayacom@gmail.com
+password = wisatasolo / dedinugroho / dedibosku (coba karna udh ganti password)
+
+============================
+
+Menu Event, jika diklik tiap event, maka harus login dahulu, kemudian bisa register di event nya.
