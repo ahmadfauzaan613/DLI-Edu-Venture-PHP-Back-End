@@ -1,0 +1,1 @@
+<main id="main"><section class="breadcrumbs"><div class="container"><h1>Profil anggota</h1><p>Masuk untuk melihat dan mengubah profil Anda.</p><a class="btn btn-learn-more" href="<?= base_url('user/login') ?>">Masuk</a></div></section></main>
